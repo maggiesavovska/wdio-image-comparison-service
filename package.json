@@ -54,7 +54,7 @@
     "webdriverio": "^6.1.22"
   },
   "dependencies": {
-    "webdriver-image-comparison": "0.14.4"
+    "webdriver-image-comparison": "maggiesavovska/webdriver-image-comparison#master"
   },
   "repository": {
     "type": "git",
